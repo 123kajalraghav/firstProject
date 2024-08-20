@@ -1,0 +1,32 @@
+
+
+body{
+      background:rgb(9, 9, 9);
+       
+      font-family: 'popping', sans-serif;
+
+}
+
+
+.con-image{
+    display: flex;
+     height: 80vh;
+     width:100%;  
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    background-color: var(--eerie-black-3);
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+ 
+}
+
+
+.con-image img{
+    width:150px;
+    height:240px;
+    border-radius: 5px;
+    border: 2px solid black;
+    
+}
